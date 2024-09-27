@@ -1,1 +1,1 @@
-React component practice
+React practice
